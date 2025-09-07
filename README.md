@@ -24,14 +24,13 @@ A **comprehensive MySQL repository** combining **theory notes** and **practice S
 
 * 🧩 [SQL\_DataTypes.md](Theory/SQL_DataTypes.md) – Overview of MySQL data types
 * 🛠 [SQL\_Roadmap.md](Theory/SQL_Roadmap.md) – SQL learning roadmap
-* 🔣 [Functions.md](Theory/Functions.md) – String, Numeric, Date, Aggregate functions
+* 🔣 [Functions.md](Theory/functions.md) – String, Numeric, Date, Aggregate functions
 * ⚡ [Commands-Queries.md](Theory/Commands-Queries.md) – Basic SQL commands
 * ⏱ [Limit\&Offset.md](Theory/Limit&Offset.md) – LIMIT & OFFSET explanation
 * 📊 [Order\_By\_Clause.md](Theory/Order_By_Clause.md) – Sorting data with ORDER BY
 * 🎭 [Aliases.md](Theory/Aliases.md) – Column and table aliases
 * ✨ [Distinct.md](Theory/distinct.md) – DISTINCT keyword usage
 * 📚 [SqlBasics.md](Theory/SqlBasics.md) – SQL basics and syntax
-* 🖼 [image.png](Theory/image.png) – Visual representation of SQL concepts
 
 ### **💻 Practice**
 
@@ -67,7 +66,7 @@ A **comprehensive MySQL repository** combining **theory notes** and **practice S
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/MySQL.git
+git clone https://github.com/coderranjit03/MySQL.git
 ```
 
 2. **Explore Theory Notes**
