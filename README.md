@@ -22,6 +22,7 @@ A **comprehensive MySQL repository** combining **theory notes** and **practice S
 
 ### **📝 Theory**
 
+* 🗄 [Database_Intro.md](Theory/DB.md) – Introduction to Databases and basic concepts
 * 🧩 [SQL\_DataTypes.md](Theory/SQL_DataTypes.md) – Overview of MySQL data types
 * 🛠 [SQL\_Roadmap.md](Theory/SQL_Roadmap.md) – SQL learning roadmap
 * 🔣 [Functions.md](Theory/functions.md) – String, Numeric, Date, Aggregate functions
