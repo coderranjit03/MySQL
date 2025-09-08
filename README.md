@@ -32,10 +32,19 @@ A **comprehensive MySQL repository** combining **theory notes** and **practice S
 * 🎭 [Aliases.md](Theory/Aliases.md) – Column and table aliases
 * ✨ [Distinct.md](Theory/distinct.md) – DISTINCT keyword usage
 * 📚 [SqlBasics.md](Theory/SqlBasics.md) – SQL basics and syntax
+* 🔑 [Primary\_Key.md](Theory/PrimaryKey.md) – Primary Key explanation
+* 🌍 [Foreign\_Key.md](Theory/ForeignKey.md) – Foreign Key explanation
+* 🗑️ [Delete\_vs\_Truncate.md](Theory/Delete&Truncate.md) – Difference between DELETE and TRUNCATE
+* 📊 [Group\_By.md](Theory/Group_By.md) – GROUP BY clause usage
+* 🧐 [Having.md](Theory/Having.md) – HAVING clause explanation
+* 🏗️ [Normalization.md](Theory/Normalization.md) – SQL Normalization concepts (1NF, 2NF, 3NF, BCNF, etc.)
+* 🔄 [Replace.md](Theory/Replace.md) – REPLACE statement explanation
+* ✏️ [Update.md](Theory/Update.md) – UPDATE statement explanation
+
 
 ### **💻 Practice**
 
-* 🧩 [aliases.sql](Practice/aliases.sql) – Practice column/table aliases
+* 🎭 [aliases.sql](Practice/aliases.sql) – Practice column/table aliases
 * ✨ [distinct.sql](Practice/distinct.sql) – Practice DISTINCT queries
 * 🔣 [functions.sql](Practice/functions.sql) – Practice SQL functions
 * ⏱ [limit.sql](Practice/limit.sql) – LIMIT & OFFSET exercises
@@ -43,6 +52,14 @@ A **comprehensive MySQL repository** combining **theory notes** and **practice S
 * 📊 [order\_by.sql](Practice/oeder_by.sql) – Sorting queries
 * 🔍 [select.sql](Practice/select.sql) – SELECT statements practice
 * 🎯 [where\_clause.sql](Practice/where_clause.sql) – Filtering with WHERE
+* 🔑 [primary\_key.sql](Practice/primaryKey.sql) – Practice queries on Primary Key
+* 🌍 [foreign\_key.sql](Practice/foreignKey.sql) – Practice queries on Foreign Key
+* 🗑️ [delete\_truncate.sql](Practice/delete&truncate.sql) – Practice queries on DELETE & TRUNCATE
+* 📊 [group\_by.sql](Practice/groupby.sql) – Practice GROUP BY queries
+* 🧐 [having.sql](Practice/having.sql) – Practice HAVING queries
+* 🏗️ [normalization.sql](Practice/normalization.sql) – Examples related to normalization
+* 🔄 [replace.sql](Practice/replace.sql) – Practice queries using REPLACE
+* ✏️ [update.sql](Practice/update.sql) – Practice queries using UPDATE
 
 ---
 
