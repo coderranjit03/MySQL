@@ -11,12 +11,14 @@ A **comprehensive MySQL repository** combining **theory notes** and **practice S
 
 ## 📂 Repository Overview
 
-| Folder          | Description                          | Files                                                              | Last Update                                                                                    |
-| --------------- | ------------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| 📝 **Theory**   | Markdown notes covering SQL concepts | ![Theory files](https://img.shields.io/badge/files-19-brightgreen) | ![Last update](https://img.shields.io/github/last-commit/coderranjit03/MySQL?label=Theory)   |
-| 💻 **Practice** | SQL scripts for hands-on practice    | ![Practice files](https://img.shields.io/badge/files-17-blue)      | ![Last update](https://img.shields.io/github/last-commit/coderranjit03/MySQL?label=Practice) |
+| Folder              | Description                              | Files                                                              | Last Update                                                                                           |
+| ------------------- | ---------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| 📝 **Theory**       | Markdown notes covering SQL concepts     | ![Theory files](https://img.shields.io/badge/files-32-brightgreen) | ![Last update](https://img.shields.io/github/last-commit/coderranjit03/MySQL?label=Theory)            |
+| 💻 **Practice**     | SQL scripts for hands-on practice        | ![Practice files](https://img.shields.io/badge/files-30-blue)      | ![Last update](https://img.shields.io/github/last-commit/coderranjit03/MySQL?label=Practice)          |
+| 📒 **HandWrittenNotes** | Scanned/handwritten notes in PDF format | ![Notes files](https://img.shields.io/badge/files-2-orange)        | ![Last update](https://img.shields.io/github/last-commit/coderranjit03/MySQL?label=HandWrittenNotes)  |
 
 ---
+
 
 ## 📖 Table of Contents
 
